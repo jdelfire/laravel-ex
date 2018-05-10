@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">PRJ Tech Solutions - Laravel 5</div>
+                <div class="title">PRJ Tech Solutions - Laravel 5 test</div>
             </div>
         </div>
     </body>
