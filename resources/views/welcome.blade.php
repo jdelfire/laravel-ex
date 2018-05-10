@@ -39,6 +39,9 @@
         <div class="container">
             <div class="content">
                 <div class="title">PRJ Tech Solutions - Laravel 5 test</div>
+            <div><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="328" data-base="USD"  data-secondary="BTC"></div>
+            </div>
             </div>
         </div>
     </body>
